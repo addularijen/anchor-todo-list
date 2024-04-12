@@ -3,7 +3,7 @@ seeds = false
 skip-lint = false
 
 [programs.devnet]
-todo_list_app = "<ADD YOUR ADDRESS HERE>"
+todo_list_app = "HtWHBA9mhu53CcGajvSmzKvjC2SP4V7vETVjGjDz1YcW"
 
 [registry]
 url = "https://api.apr.dev"
